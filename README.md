@@ -1,1 +1,1 @@
-# email-extraction
+Automated the email extraction process from bounced back emails on Outlook using Microsoft GraphAPI in Python which saved hours of time in going through each email, finding the email ID, and then storing it in Excel.
